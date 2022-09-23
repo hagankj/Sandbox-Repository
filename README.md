@@ -11,6 +11,6 @@ I'd like to continue working in Product Management and apply the technology lear
 ### Why Fintech?
 It's a quickly growing industry and the learnings can be applied in a number of different ways.
 
-![Fintech](image.png)
+![Fintech](fintech.jpg)
 
 [images](https://github.com/hagankj/Sandbox-Repository/tree/main/images)
